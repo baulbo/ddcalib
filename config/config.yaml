@@ -1,0 +1,4 @@
+out_dir: output
+data_dir: data/
+data_poses: output/kiss_slam/latest/data_poses.npy
+config_dir: config

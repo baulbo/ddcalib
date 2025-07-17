@@ -1,0 +1,18 @@
+# ddcalib-specific
+data/
+output/*
+venv/
+archive/
+UniDepth/
+checkpoints/
+T_star.npy
+
+# python
+__pycache__/
+
+# vggt
+#vggt/
+skyseg.onnx
+
+# MacOS
+.DS_Store
