@@ -1,5 +1,4 @@
 # ddcalib-specific
-data/
 output/*
 venv/
 archive/
