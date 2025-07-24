@@ -2,7 +2,6 @@
 output/*
 venv/
 archive/
-UniDepth/
 checkpoints/
 T_star.npy
 

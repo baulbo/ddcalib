@@ -23,7 +23,7 @@ NUM_FRAMES=1                      # number of consecutive frames to process (sho
 LIDAR_PATH="data/lidar/data/"
 
 # do monocular depth prediction for those frames
-# NOTE: only has to be done once
+# NOTE: only has to be done once and the example unidepth are already in 'data/unidepth'
 python unidepth_predict.py --start_frame_id $START_FRAME_ID \
                            --num_frames $NUM_FRAMES
 
